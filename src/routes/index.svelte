@@ -1,3 +1,14 @@
+<script>
+  import Card from "../components/Card.svelte";
+
+  const iconsPromise = fetch("/api/svgIcons")
+    .then(res => res.json())
+    .then(data => data.svgIcons)
+
+  let iconFilter = "asd";
+
+</script>
+
 <div id="container">
   <h1>Welcome to a free SVG package</h1>
   <input bind:value={iconFilter} />
