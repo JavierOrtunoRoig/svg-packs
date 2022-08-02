@@ -9,6 +9,6 @@
     margin: 0;
     padding: 0;
     font-family: sans-serif;
-    background: #222;
+    background-color: #222;
   }
 </style>
