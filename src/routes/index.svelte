@@ -10,8 +10,8 @@
 </script>
 
 <div id="container">
-  <h1>Welcome to a free SVG package</h1>
-  <input bind:value={iconFilter} />
+  <h1 class="title">Welcome to a free SVG package</h1>
+  <input id="search-bar" bind:value={iconFilter} />
 
   <div id="techs-container">
     {#await iconsPromise then icons}
@@ -31,17 +31,30 @@
     align-items: center;
     flex-wrap: wrap;
     flex-direction: column;
-    gap: 10px;
+    padding: 10px;
+    gap: 30px;
+  }
+
+  #search-bar {
+    width: 100%;
+  }
+
+  .title {
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0;
+    margin-top: 1em;
+    text-align: center;
   }
 
   #techs-container {
-    width: 70%;
+    width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 25px;
+    gap: 10px;
   }
 
   input {
