@@ -5,7 +5,7 @@
     .then(res => res.json())
     .then(data => data.svgIcons)
 
-  let iconFilter = "asd";
+  let iconFilter = "";
 
 </script>
 
