@@ -4,377 +4,432 @@
     "slug": "/library/discord.svg",
     "title": "Discord",
     "category": "Software",
-    "url": "https://discord.com/"
+    "url": "https://discord.com/",
+    "description": "Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called \"servers\".",
+    "svgCode": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<svg width=\"256px\" height=\"199px\" viewBox=\"0 0 256 199\" version=\"1.1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" preserveAspectRatio=\"xMidYMid\">\n    <g>\n        <path d=\"M216.856339,16.5966031 C200.285002,8.84328665 182.566144,3.2084988 164.041564,0 C161.766523,4.11318106 159.108624,9.64549908 157.276099,14.0464379 C137.583995,11.0849896 118.072967,11.0849896 98.7430163,14.0464379 C96.9108417,9.64549908 94.1925838,4.11318106 91.8971895,0 C73.3526068,3.2084988 55.6133949,8.86399117 39.0420583,16.6376612 C5.61752293,67.146514 -3.4433191,116.400813 1.08711069,164.955721 C23.2560196,181.510915 44.7403634,191.567697 65.8621325,198.148576 C71.0772151,190.971126 75.7283628,183.341335 79.7352139,175.300261 C72.104019,172.400575 64.7949724,168.822202 57.8887866,164.667963 C59.7209612,163.310589 61.5131304,161.891452 63.2445898,160.431257 C105.36741,180.133187 151.134928,180.133187 192.754523,160.431257 C194.506336,161.891452 196.298154,163.310589 198.110326,164.667963 C191.183787,168.842556 183.854737,172.420929 176.223542,175.320965 C180.230393,183.341335 184.861538,190.991831 190.096624,198.16893 C211.238746,191.588051 232.743023,181.531619 254.911949,164.955721 C260.227747,108.668201 245.831087,59.8662432 216.856339,16.5966031 Z M85.4738752,135.09489 C72.8290281,135.09489 62.4592217,123.290155 62.4592217,108.914901 C62.4592217,94.5396472 72.607595,82.7145587 85.4738752,82.7145587 C98.3405064,82.7145587 108.709962,94.5189427 108.488529,108.914901 C108.508531,123.290155 98.3405064,135.09489 85.4738752,135.09489 Z M170.525237,135.09489 C157.88039,135.09489 147.510584,123.290155 147.510584,108.914901 C147.510584,94.5396472 157.658606,82.7145587 170.525237,82.7145587 C183.391518,82.7145587 193.761324,94.5189427 193.539891,108.914901 C193.539891,123.290155 183.391518,135.09489 170.525237,135.09489 Z\" fill=\"#5865F2\" fill-rule=\"nonzero\"></path>\n    </g>\n</svg>"
   },
   {
     "id": 2,
     "slug": "/library/github.svg",
     "title": "Github",
     "category": "Software",
-    "url": "https://github.com/"
+    "url": "https://github.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 3,
     "slug": "/library/preact.svg",
     "title": "Preact",
     "category": "Library",
-    "url": "https://preactjs.com/"
+    "url": "https://preactjs.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 4,
     "slug": "/library/react.svg",
     "title": "React",
     "category": "Library",
-    "url": "https://reactjs.org/"
+    "url": "https://reactjs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 5,
     "slug": "/library/vercel.svg",
     "title": "Vercel",
     "category": "Hosting",
-    "url": "https://vercel.com/"
+    "url": "https://vercel.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 6,
     "slug": "/library/svelte.svg",
     "title": "Svelte",
     "category": "Library",
-    "url": "https://svelte.dev/"
+    "url": "https://svelte.dev/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 7,
     "slug": "/library/vue.svg",
     "title": "Vue",
     "category": "Framework",
-    "url": "https://vuejs.org/"
+    "url": "https://vuejs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 8,
     "slug": "/library/nuxt.svg",
     "title": "Nuxt",
     "category": "Framework",
-    "url": "https://nuxtjs.org/"
+    "url": "https://nuxtjs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 9,
     "slug": "/library/nextjs.svg",
     "title": "Nextjs",
     "category": "Framework",
-    "url": "https://nextjs.org/"
+    "url": "https://nextjs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 10,
     "slug": "/library/vscode.svg",
     "title": "VSCode",
     "category": "Software",
-    "url": "https://code.visualstudio.com/"
+    "url": "https://code.visualstudio.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 11,
     "slug": "/library/jwt.svg",
     "title": "JWT",
     "category": "Library",
-    "url": "https://jwt.io/"
+    "url": "https://jwt.io/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 12,
     "slug": "/library/strapi.svg",
     "title": "Strapi",
     "category": "CMS",
-    "url": "https://strapi.io/"
+    "url": "https://strapi.io/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 13,
     "slug": "/library/figma.svg",
     "title": "Figma",
     "category": "Software",
-    "url": "https://www.figma.com/"
+    "url": "https://www.figma.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 14,
     "slug": "/library/spotify.svg",
     "title": "Spotify",
     "category": "Software",
-    "url": "https://www.spotify.com/"
+    "url": "https://www.spotify.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 15,
     "slug": "/library/postman.svg",
     "title": "Postman",
     "category": "Software",
-    "url": "https://www.getpostman.com/"
+    "url": "https://www.getpostman.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 16,
     "slug": "/library/algolia.svg",
     "title": "Algolia",
     "category": "Library",
-    "url": "https://www.algolia.com/"
+    "url": "https://www.algolia.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 17,
     "slug": "/library/bootstrap.svg",
     "title": "Bootstrap",
     "category": "Framework",
-    "url": "https://getbootstrap.com/"
+    "url": "https://getbootstrap.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 18,
     "slug": "/library/firebase.svg",
     "title": "Firebase",
     "category": "Hosting",
-    "url": "https://firebase.google.com/"
+    "url": "https://firebase.google.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 19,
     "slug": "/library/supabase.svg",
     "title": "Supabase",
     "category": "Database",
-    "url": "https://supabase.com/"
+    "url": "https://supabase.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 20,
     "slug": "/library/vitejs.svg",
     "title": "Vite.js",
     "category": "Compiler",
-    "url": "https://vitejs.dev"
+    "url": "https://vitejs.dev",
+    "description": "Not descriptio yet"
   },
   {
     "id": 21,
     "slug": "/library/facebook.svg",
     "title": "Facebook",
     "category": "Social",
-    "url": "https://www.facebook.com/"
+    "url": "https://www.facebook.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 22,
     "slug": "/library/twitter.svg",
     "title": "Twitter",
     "category": "Social",
-    "url": "https://twitter.com/"
+    "url": "https://twitter.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 23,
     "slug": "/library/nodejs.svg",
     "title": "Node.js",
     "category": "Library",
-    "url": "https://nodejs.org/"
+    "url": "https://nodejs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 24,
     "slug": "/library/esbuild.svg",
     "title": "Esbuild",
     "category": "Compiler",
-    "url": "https://esbuild.github.io/"
+    "url": "https://esbuild.github.io/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 25,
     "slug": "/library/deno.svg",
     "title": "Deno",
     "category": "Library",
-    "url": "https://deno.land/"
+    "url": "https://deno.land/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 26,
     "slug": "/library/gatsby.svg",
     "title": "Gatsby",
     "category": "Framework",
-    "url": "https://www.gatsbyjs.org/"
+    "url": "https://www.gatsbyjs.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 27,
     "slug": "/library/npm.svg",
     "title": "NPM",
     "category": "Software",
-    "url": "https://www.npmjs.com/"
+    "url": "https://www.npmjs.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 28,
     "slug": "/library/homebrew.svg",
     "title": "Homebrew",
     "category": "Software",
-    "url": "https://brew.sh/"
+    "url": "https://brew.sh/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 29,
     "slug": "/library/sublimetext.svg",
     "title": "Sublime Text",
     "category": "Software",
-    "url": "https://www.sublimetext.com/"
+    "url": "https://www.sublimetext.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 30,
     "slug": "/library/turborepo.svg",
     "title": "TurboRepo",
     "category": "Library",
-    "url": "https://turborepo.org/"
+    "url": "https://turborepo.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 31,
     "slug": "/library/tailwindcss.svg",
     "title": "Tailwind CSS",
     "category": "Framework",
-    "url": "https://tailwindcss.com/"
+    "url": "https://tailwindcss.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 32,
     "slug": "/library/styledcomponents.svg",
     "title": "Styled Components",
     "category": "Library",
-    "url": "https://styled-components.com/"
+    "url": "https://styled-components.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 33,
     "slug": "/library/angular.svg",
     "title": "Angular",
     "category": "Framework",
-    "url": "https://angular.io/"
+    "url": "https://angular.io/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 34,
     "slug": "/library/blitzjs.svg",
     "title": "Blitz",
     "category": "Framework",
-    "url": "https://blitzjs.com/"
+    "url": "https://blitzjs.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 35,
     "slug": "/library/lit.svg",
     "title": "Lit",
     "category": "Library",
-    "url": "https://lit.dev/"
+    "url": "https://lit.dev/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 36,
     "slug": "/library/atom.svg",
     "title": "Atom",
     "category": "Software",
-    "url": "https://atom.io/"
+    "url": "https://atom.io/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 37,
     "slug": "/library/youtube.svg",
     "title": "YouTube",
     "category": "Social",
-    "url": "https://www.youtube.com/"
+    "url": "https://www.youtube.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 38,
     "slug": "/library/astro.svg",
     "title": "Astro",
     "category": "Framework",
-    "url": "https://astro.build/"
+    "url": "https://astro.build/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 39,
     "slug": "/library/google.svg",
     "title": "Google",
     "category": "Social",
-    "url": "https://www.google.com/"
+    "url": "https://www.google.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 40,
     "slug": "/library/framer.svg",
     "title": "Framer",
     "category": "Software",
-    "url": "https://framer.com/"
+    "url": "https://framer.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 41,
     "slug": "/library/netflix.svg",
     "title": "Netflix",
     "category": "Entertainment",
-    "url": "https://www.netflix.com/"
+    "url": "https://www.netflix.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 42,
     "slug": "/library/firefox.svg",
     "title": "Firefox",
     "category": "Software",
-    "url": "https://www.mozilla.org/en-US/firefox/"
+    "url": "https://www.mozilla.org/en-US/firefox/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 43,
     "slug": "/library/linkedin.svg",
     "title": "LinkedIn",
     "category": "Social",
-    "url": "https://www.linkedin.com/"
+    "url": "https://www.linkedin.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 44,
     "slug": "/library/telegram.svg",
     "title": "Telegram",
     "category": "Social",
-    "url": "https://web.telegram.org/"
+    "url": "https://web.telegram.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 45,
     "slug": "/library/whatsapp.svg",
     "title": "WhatsApp",
     "category": "Social",
-    "url": "https://web.whatsapp.com/"
+    "url": "https://web.whatsapp.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 46,
     "slug": "/library/headlessui.svg",
     "title": "Headless UI",
     "category": "Library",
-    "url": "https://headlessui.dev/"
+    "url": "https://headlessui.dev/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 47,
     "slug": "/library/kotlin.svg",
     "title": "Kotlin",
     "category": "Language",
-    "url": "https://kotlinlang.org/"
+    "url": "https://kotlinlang.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 48,
     "slug": "/library/vitest.svg",
     "title": "Vitest",
     "category": "Framework",
-    "url": "https://vitest.dev/"
+    "url": "https://vitest.dev/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 49,
     "slug": "/library/storybook.svg",
     "title": "Storybook",
     "category": "Software",
-    "url": "https://storybook.js.org/"
+    "url": "https://storybook.js.org/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 50,
     "slug": "/library/netlify.svg",
     "title": "Netlify",
     "category": "Hosting",
-    "url": "https://www.netlify.com/"
+    "url": "https://www.netlify.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 51,
     "slug": "/library/hostinger.svg",
     "title": "Hostinger",
     "category": "Hosting",
-    "url": "https://www.hostinger.com/"
+    "url": "https://www.hostinger.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 52,
     "slug": "/library/mongodb.svg",
     "title": "MongoDB",
     "category": "Database",
-    "url": "https://www.mongodb.com/"
+    "url": "https://www.mongodb.com/",
+    "description": "Not descriptio yet"
   },
   {
     "id": 53,
     "slug": "/library/babel.svg",
     "title": "Babel",
     "category": "Compiler",
-    "url": "https://babeljs.io"
+    "url": "https://babeljs.io",
+    "description": "Not descriptio yet"
   },
   {
     "id": 54,
     "slug": "/library/prime-video.svg",
     "title": "Prime Video",
     "category": "Entertainment",
-    "url": "https://www.primevideo.com"
+    "url": "https://www.primevideo.com",
+    "description": "Not descriptio yet"
   }
 ]
